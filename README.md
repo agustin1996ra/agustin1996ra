@@ -12,7 +12,7 @@ Mi grupo de estudio es MateCoders 🧉💻.
 
 Actualmente me encuentro cursando la parte final de la carrera en programacion. Y como practias me encuentro desarrollando una app de gestion de pacientes para la clinica Centro Perinatal Marea de la ciudad de San Rafael. 🏥👩‍⚕️👩‍⚕️👩‍⚕️
 
-Y como proyecto personal le estoy realizando la aplicacion de Ecommerce y fidelizacion de cliente a la marca de gin Extraordinario Garcia. 🍸🍸🍸
+Y como proyecto personal le estoy realizando la aplicacion de Ecommerce y fidelizacion de cliente a la marca de gin **Extraordinario Garcia** único Argentino Dry Gin de la galaxia y sus alrededores. 🍸🍸🍸
 
 ### Mis tecnologias
 <p aling="left">
