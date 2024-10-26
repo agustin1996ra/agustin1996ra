@@ -1,18 +1,6 @@
 ## Hola, soy Agustin Rodriguez
 
-Soy estudiante de la Tecnicatura en programacion de la Universidad Tecnologica Nacional Facultad Regional de San Rafael.
 
-### Mi equipo
-
-![Mi grupo de estudio es MateCoders 🧉💻.](https://github.com/agustin1996ra/agustin1996ra/assets/63318331/f1e97517-c20d-436b-846e-c69b6ee36ab6)
-
-Mi grupo de estudio es MateCoders 🧉💻.
-
-### Algo de mi
-
-Actualmente me encuentro cursando la parte final de la carrera en programacion. Y como practias me encuentro desarrollando una app de gestion de pacientes para la clinica Centro Perinatal Marea de la ciudad de San Rafael. 🏥👩‍⚕️👩‍⚕️👩‍⚕️
-
-Y como proyecto personal le estoy realizando la aplicacion de Ecommerce y fidelizacion de cliente a la marca de gin **Extraordinario Garcia** único Argentino Dry Gin de la galaxia y sus alrededores. 🍸🍸🍸
 
 ### Mis tecnologias
 <p aling="left">
